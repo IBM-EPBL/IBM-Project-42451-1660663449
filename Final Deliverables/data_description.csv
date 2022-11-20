@@ -1,0 +1,27 @@
+col id age bp sg al su rcb pc pcc ba bgr bu sc pod pot hemo pcv wc rc htn dm cad appet pe ane classification,abb_col_names
+id ,id
+age,age
+bp,blood pressure
+sg,specific gravity
+al,albumin
+su,sugar
+rbc,red blood cells
+pc,pus cell
+pcc,pus cell clumps
+ba,bacteria
+bgr,blood glucose random
+bu,blood urea
+sc,serum creatinine
+pod,sodium
+pot,potassium
+hemo,haemoglobin
+pcv,packed cell volume
+wc,white blood cell count
+rc,red blood cell count
+htn,hypertension
+dm,diabetes mellitus
+cad,coronary artery disease
+appet,appetite
+pe,pedal edema
+ane,anemia
+classification,class
